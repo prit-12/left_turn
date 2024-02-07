@@ -1,0 +1,2 @@
+# This is a pseudocode for making a left turn 
+
