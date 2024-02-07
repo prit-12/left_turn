@@ -1,2 +1,2 @@
 # This is a pseudocode for making a left turn 
-
+WHEN approaching left turn, make sure vehicle is > 3 seconds away
